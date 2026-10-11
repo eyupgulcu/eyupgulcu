@@ -5,7 +5,7 @@ I build AI automations for small businesses, along with the software they need a
 I run [Flovia Technologies](https://floviatech.com) from Ankara. My working hours overlap with Europe (UTC+3), and I work in English and Turkish.
 
 [![Website](https://img.shields.io/badge/floviatech.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://floviatech.com)
-[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com)
+[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0156ecea29408cc611)
 
 ### What I work on
 
